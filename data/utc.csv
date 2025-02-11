@@ -1,27 +1,27 @@
-﻿estado;utc
-Acre;UTC -05:00
-Alagoas;UTC -03:00
-Amazonas;UTC -04:00
-Bahia;UTC -03:00
-Ceará;UTC -03:00
-Espírito Santo;UTC -03:00
-Goiás;UTC -03:00
-Maranhão;UTC -03:00
-Mato Grosso;UTC -04:00
-Mato Grosso do Sul;UTC -04:00
-Minas Gerais;UTC -03:00
-Pará;UTC -03:00
-Paraíba;UTC -03:00
-Paraná;UTC -03:00
-Pernambuco;UTC -03:00
-Piauí;UTC -03:00
-Rio de Janeiro;UTC -03:00
-Rio Grande do Norte;UTC -03:00
-Rio Grande do Sul;UTC -03:00
-Rondônia;UTC -04:00
-Roraima;UTC -04:00
-Santa Catarina;UTC -03:00
-São Paulo;UTC -03:00
-Sergipe;UTC -03:00
-Tocantins;UTC -03:00
-Distrito Federal (DF);UTC -03:00
+﻿uf;estado;utc;;;;
+AC;Acre;UTC -05:00;;;;
+AL;Alagoas;UTC -03:00;;;;
+AM;Amazonas;UTC -04:00;;;;
+BA;Bahia;UTC -03:00;;;;
+CE;Ceará;UTC -03:00;;;;
+ES;Espírito Santo;UTC -03:00;;;;
+GO;Goiás;UTC -03:00;;;;
+MA;Maranhão;UTC -03:00;;;;
+MT;Mato Grosso;UTC -04:00;;;;
+MS;Mato Grosso do Sul;UTC -04:00;;;;
+MG;Minas Gerais;UTC -03:00;;;;
+PA;Pará;UTC -03:00;;;;
+PB;Paraíba;UTC -03:00;;;;
+PR;Paraná;UTC -03:00;;;;
+PE;Pernambuco;UTC -03:00;;;;
+PI;Piauí;UTC -03:00;;;;
+RJ;Rio de Janeiro;UTC -03:00;;;;
+RN;Rio Grande do Norte;UTC -03:00;;;;
+RS;Rio Grande do Sul;UTC -03:00;;;;
+RO;Rondônia;UTC -04:00;;;;
+RR;Roraima;UTC -04:00;;;;
+SC;Santa Catarina;UTC -03:00;;;;
+SP;São Paulo;UTC -03:00;;;;
+SE;Sergipe;UTC -03:00;;;;
+TO;Tocantins;UTC -03:00;;;;
+DF;Distrito Federal (DF);UTC -03:00;;;;
